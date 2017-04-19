@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Matias Menares
+description: Matías Menares Ing. Informático
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://github.com/matiasmenares
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Inicio
    url: /index.html
- - title: About
+ - title: Acerca de
    url: /about
- - title: Contact
+ - title: Contacto
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: matiasmenares
+   twitter: matiasmenares
+   facebook: 0mts0
+   email: matias.menares@apptec.cl
 
 google_analytics: "UA-58263416-1"
